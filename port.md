@@ -27,6 +27,8 @@ expand and advance my IT knowledge and skills, and am extremely passionate about
 1. Gaming
 1. Chess/Checkers
 
+![Image of Me](https://user-images.githubusercontent.com/78187692/107465538-84782280-6b30-11eb-9a9a-0c86ea26a372.png)
+
 ## Contact Information:
 
 Email: | LinkedIn:
