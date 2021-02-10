@@ -27,13 +27,6 @@ expand and advance my IT knowledge and skills, and am extremely passionate about
 1. Gaming
 1. Chess/Checkers
 
-
-
-![Image of me](file:///Users/owner/Desktop/2019%20MUMBB%20roster%20pic.png)
-
-
-
-
 ## Contact Information:
 
 Email: | LinkedIn:
