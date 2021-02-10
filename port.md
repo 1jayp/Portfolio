@@ -9,17 +9,29 @@ expand and advance my IT knowledge and skills, and am extremely passionate about
 * My expected graduation is Spring 2023
 
 ## Skills:
+**Programming Languages:**
 - Python
 - HTML
+- CSS
+- JavaScript
+
+**Softwares/Tools:**
 - Microsoft Suite
 - Google Suite
-- CSS
+- Google Colab
+- Pycharm
 
-## Hobbies:
+## Other Hobbies:
 1. Sports
-1. Music
-1. Video Games
+1. Music Production
+1. Gaming
 1. Chess/Checkers
+
+
+
+![Image of me](file:///Users/owner/Desktop/2019%20MUMBB%20roster%20pic.png)
+
+
 
 
 ## Contact Information:
