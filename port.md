@@ -4,6 +4,10 @@ expand and advance my IT knowledge and skills, and am extremely passionate about
 
 ![Image of Me](https://user-images.githubusercontent.com/78187692/107465538-84782280-6b30-11eb-9a9a-0c86ea26a372.png)
 
+Personal Motto:
+> "Stay down until you come up"
+
+
 ## About Jared:
 * I am a student-athlete who was born in Maryland but grew up in Woodbridge, Virginia 
 * I attend Marymount University in Arlington, Virginia
@@ -29,8 +33,13 @@ expand and advance my IT knowledge and skills, and am extremely passionate about
 1. Gaming
 1. Chess/Checkers
 
+
+
 ## Contact Information:
 
 Email: | LinkedIn:
 ------------ | -------------
 j0p26686@marymount.edu | https://www.linkedin.com/in/jared-perry-828391205/
+
+
+This site was built using [GitHub Pages](https://pages.github.com/).
