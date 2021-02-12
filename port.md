@@ -40,7 +40,8 @@ Personal Motto:
 
 Email: | LinkedIn:
 ------------ | -------------
-j0p26686@marymount.edu | https://www.linkedin.com/in/jared-perry-828391205/
+j0p26686@marymount.edu | <a href="https://www.linkedin.com/in/jared-perry-828391205/"></a>
+
 
 
 This site was built using [GitHub Pages](https://pages.github.com/).
