@@ -3,7 +3,7 @@
 expand and advance my IT knowledge and skills, and am extremely passionate about focusing on Data Science and Data Analytics! I possess superb problem-solving and communication skills as well as top-notch time-management skills. Any contact information can be found at the bottom of the website...Enjoy!*
 
 
-<img src="https://user-images.githubusercontent.com/78187692/107465538-84782280-6b30-11eb-9a9a-0c86ea26a372.png" width="225" height="285">
+<img src="https://user-images.githubusercontent.com/78187692/108305336-bebc7200-7177-11eb-8264-f23e624b4843.jpg" width="225" height="285">
 
 Personal Motto:
 > "Stay down until you come up"
