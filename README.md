@@ -25,7 +25,7 @@ Personal Motto:
 
 **Softwares/Tools:**
 - Microsoft Suite
-- MtSQL
+- MySQL
 - Google Suite
 - Google Colab
 - IBM Watson Studio
