@@ -21,6 +21,7 @@ Personal Motto:
 - HTML
 - CSS
 - JavaScript
+- SQL
 
 **Softwares/Tools:**
 - Microsoft Suite
