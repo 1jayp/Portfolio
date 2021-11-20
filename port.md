@@ -12,7 +12,7 @@ Personal Motto:
 ## About Jared:
 * I am a student-athlete who was born in Maryland but grew up in Woodbridge, Virginia 
 * I attend Marymount University in Arlington, Virginia
-* I am studying Information Technology with a concentration in Data Science 
+* I am studying Information Technology with a minor in Data Science 
 * My expected graduation is Spring 2023
 
 ## Skills:
@@ -24,8 +24,10 @@ Personal Motto:
 
 **Softwares/Tools:**
 - Microsoft Suite
+- MySQL
 - Google Suite
 - Google Colab
+- IBM Watson Studio
 - Pycharm
 
 ## Other Hobbies:
@@ -40,7 +42,7 @@ Personal Motto:
 
 Email: | Social Media:
 ------------ | -------------
-j0p26686@marymount.edu | <a href="https://www.linkedin.com/in/jared-perry-828391205/">LinkedIn</a>
+1jaredperry@gmail.com | <a href="https://www.linkedin.com/in/jared-perry-828391205/">LinkedIn</a>
 
 
 
